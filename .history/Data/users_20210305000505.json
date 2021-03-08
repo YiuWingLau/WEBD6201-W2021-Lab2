@@ -1,0 +1,33 @@
+{
+    "users":
+    [
+        { 
+          "FirstName": "John",
+          "LastName": "Smith",
+          "UserName": "johnsmith",
+          "Email": "john.smith@example.com",
+          "Password": "123456"
+        },
+        { 
+          "FirstName": "May",
+          "LastName": "Smith",
+          "UserName": "maysmith",
+          "Email": "may.smith@example.com",
+          "Password": "123456"
+        },
+        { 
+          "FirstName": "Admin",
+          "LastName": "Admin",
+          "UserName": "admin",
+          "Email": "admin@example.com",
+          "Password": "123456"
+        },
+        { 
+          "FirstName": "Nelson",
+          "LastName": "Lau",
+          "UserName": "nelsonlau",
+          "Email": "nelson.lau@dcmail.ca",
+          "Password": "246810"
+        }
+    ]
+}

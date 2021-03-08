@@ -1,0 +1,30 @@
+{
+    "contacts":
+    [
+        {
+            "FullName":"Yiu Wing",
+            "ContactNumber":"6475554466",
+            "EmailAddress":"nelson@hotmail.com"
+        },
+        {
+            "FullName":"Peter Kuan",
+            "ContactNumber":"4166688688",
+            "EmailAddress":"Pkuan@gmail.com"
+        },
+        {
+            "FullName":"Visual Basic",
+            "ContactNumber":"4165555558",
+            "EmailAddress":"visualb@example.com"
+        },
+        {
+            "FullName":"Arch Toe",
+            "ContactNumber":"4165790864",
+            "EmailAddress":"archt@example.com"
+        },
+        {
+            "FullName":"Want Money",
+            "ContactNumber":"4168888888",
+            "EmailAddress":"berich@example.com"
+        }
+    ]
+}
